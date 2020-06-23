@@ -1,0 +1,7 @@
+{
+  "name": "ionic-modal-content-s2c",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
